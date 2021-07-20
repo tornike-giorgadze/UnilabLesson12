@@ -71,6 +71,10 @@ color:#343638;
         -ms-flex-pack: justify;
             justify-content: space-between;
 }
+.image{
+    max-width: 580px;
+    width: 100%;
+}
 .left-box{
     position: relative;
     max-width: 600px;
